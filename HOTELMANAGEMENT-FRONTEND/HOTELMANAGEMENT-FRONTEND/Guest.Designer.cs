@@ -164,6 +164,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Guest";
             this.Text = "Guest";
+            this.Load += new System.EventHandler(this.Guest_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.splitContainer1.Panel1.ResumeLayout(false);

@@ -26,9 +26,7 @@ namespace HOTELMANAGEMENT_FRONTEND
 
         private void label2_Click(object sender, EventArgs e)
         {
-            var mainpage = new Form2();
-            mainpage.Show();
-            this.Hide();
+
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -54,6 +52,11 @@ namespace HOTELMANAGEMENT_FRONTEND
         }
 
         private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Guest_Load(object sender, EventArgs e)
         {
 
         }

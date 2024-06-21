@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace HOTELMANAGEMENT_FRONTEND
 {
-    public partial class Form3 : Form2
+    public partial class Form3 : Form
     {
         public Form3()
         {
